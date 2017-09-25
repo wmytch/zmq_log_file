@@ -1,0 +1,112 @@
+2017-09-22 14:38:24,270 INFO [default] connect to Proxy[tcp://127.0.0.1:15561] success.
+2017-09-22 14:38:24,270 INFO [default] Create logger thread.
+2017-09-22 14:38:24,270 INFO [default] Connect to logger.
+2017-09-22 14:38:24,271 INFO [default] Logger thread begin.
+2017-09-22 14:38:24,271 INFO [default] Begin logging...
+2017-09-22 14:38:29,953 INFO [default] First network log|192.168.0.1|./log_client_1
+
+2017-09-22 14:41:54,915 INFO [default] connect to Proxy[tcp://127.0.0.1:15561] success.
+2017-09-22 14:41:54,915 INFO [default] Create logger thread.
+2017-09-22 14:41:54,915 INFO [default] Connect to logger.
+2017-09-22 14:41:54,915 INFO [default] Logger thread begin.
+2017-09-22 14:41:54,915 INFO [default] Begin logging...
+2017-09-22 14:44:34,244 INFO [default] connect to Proxy[tcp://127.0.0.1:15561] success.
+2017-09-22 14:44:34,244 INFO [default] Create logger thread.
+2017-09-22 14:44:34,244 INFO [default] Connect to logger.
+2017-09-22 14:44:34,245 INFO [default] Logger thread begin.
+2017-09-22 14:44:34,245 INFO [default] Begin logging...
+2017-09-22 14:45:38,918 INFO [default] connect to Proxy[tcp://127.0.0.1:15561] success.
+2017-09-22 14:45:38,918 INFO [default] Create logger thread.
+2017-09-22 14:45:38,918 INFO [default] Connect to logger.
+2017-09-22 14:45:38,919 INFO [default] Logger thread begin.
+2017-09-22 14:45:38,919 INFO [default] Begin logging...
+2017-09-22 14:48:33,899 INFO [default] connect to Proxy[tcp://127.0.0.1:15561] success.
+2017-09-22 14:48:33,899 INFO [default] Create logger thread.
+2017-09-22 14:48:33,899 INFO [default] Connect to logger.
+2017-09-22 14:48:33,900 INFO [default] Logger thread begin.
+2017-09-22 14:48:33,900 INFO [default] Begin logging...
+2017-09-22 14:58:47,045 INFO [default] connect to Proxy[tcp://127.0.0.1:15561] success.
+2017-09-22 14:58:47,045 INFO [default] Create logger thread.
+2017-09-22 14:58:47,045 INFO [default] Connect to logger.
+2017-09-22 14:58:47,046 INFO [default] Logger thread begin.
+2017-09-22 14:58:47,046 INFO [default] Begin logging...
+2017-09-22 15:01:16,202 INFO [default] connect to Proxy[tcp://127.0.0.1:15561] success.
+2017-09-22 15:01:16,203 INFO [default] Create logger thread.
+2017-09-22 15:01:16,203 INFO [default] Connect to logger.
+2017-09-22 15:01:16,203 INFO [default] Logger thread begin.
+2017-09-22 15:01:16,204 INFO [default] Begin logging...
+2017-09-22 15:08:01,857 INFO [default] connect to Proxy[tcp://127.0.0.1:15561] success.
+2017-09-22 15:08:01,857 INFO [default] Create logger thread.
+2017-09-22 15:08:01,857 INFO [default] Connect to logger.
+2017-09-22 15:08:01,858 INFO [default] Logger thread begin.
+2017-09-22 15:08:01,858 INFO [default] Begin logging...
+2017-09-22 15:10:19,308 INFO [default] connect to Proxy[tcp://127.0.0.1:15561] success.
+2017-09-22 15:10:19,308 INFO [default] Create logger thread.
+2017-09-22 15:10:19,308 INFO [default] Connect to logger.
+2017-09-22 15:10:19,309 INFO [default] Logger thread begin.
+2017-09-22 15:10:19,309 INFO [default] Begin logging...
+2017-09-22 15:11:05,552 INFO [default] connect to Proxy[tcp://127.0.0.1:15561] success.
+2017-09-22 15:11:05,552 INFO [default] Create logger thread.
+2017-09-22 15:11:05,552 INFO [default] Connect to logger.
+2017-09-22 15:11:05,553 INFO [default] Logger thread begin.
+2017-09-22 15:11:05,553 INFO [default] Begin logging...
+2017-09-22 15:19:47,842 INFO [default] connect to Proxy[tcp://127.0.0.1:15561] success.
+2017-09-22 15:19:47,842 INFO [default] Create logger thread.
+2017-09-22 15:19:47,842 INFO [default] Connect to logger.
+2017-09-22 15:19:47,843 INFO [default] Logger thread begin.
+2017-09-22 15:19:47,843 INFO [default] Begin logging...
+2017-09-22 15:31:29,185 INFO [default] connect to Proxy[tcp://127.0.0.1:15561] success.
+2017-09-22 15:31:29,185 INFO [default] Create logger thread.
+2017-09-22 15:31:29,185 INFO [default] Connect to logger.
+2017-09-22 15:31:29,185 INFO [default] Logger thread begin.
+2017-09-22 15:31:29,186 INFO [default] Begin logging...
+2017-09-22 15:32:52,930 INFO [default] connect to Proxy[tcp://127.0.0.1:15561] success.
+2017-09-22 15:32:52,930 INFO [default] Create logger thread.
+2017-09-22 15:32:52,931 INFO [default] Connect to logger.
+2017-09-22 15:32:52,932 INFO [default] Logger thread begin.
+2017-09-22 15:32:52,932 INFO [default] Begin logging...
+2017-09-22 15:35:08,266 INFO [default] connect to Proxy[tcp://127.0.0.1:15561] success.
+2017-09-22 15:35:08,266 INFO [default] Create logger thread.
+2017-09-22 15:35:08,266 INFO [default] Connect to logger.
+2017-09-22 15:35:08,267 INFO [default] Logger thread begin.
+2017-09-22 15:35:08,267 INFO [default] Begin logging...
+2017-09-22 15:38:16,915 INFO [default] connect to Proxy[tcp://127.0.0.1:15561] success.
+2017-09-22 15:38:16,915 INFO [default] Create logger thread.
+2017-09-22 15:38:16,915 INFO [default] Connect to logger.
+2017-09-22 15:38:16,916 INFO [default] Logger thread begin.
+2017-09-22 15:38:16,916 INFO [default] Begin logging...
+2017-09-22 15:39:49,960 INFO [default] connect to Proxy[tcp://127.0.0.1:15561] success.
+2017-09-22 15:39:49,960 INFO [default] Create logger thread.
+2017-09-22 15:39:49,960 INFO [default] Connect to logger.
+2017-09-22 15:39:49,961 INFO [default] Logger thread begin.
+2017-09-22 15:39:49,961 INFO [default] Begin logging...
+2017-09-22 15:50:01,125 INFO [default] connect to Proxy[tcp://127.0.0.1:15561] success.
+2017-09-22 15:50:01,125 INFO [default] Create logger thread.
+2017-09-22 15:50:01,125 INFO [default] Connect to logger.
+2017-09-22 15:50:01,126 INFO [default] Logger thread begin.
+2017-09-22 15:50:01,126 INFO [default] Begin logging...
+2017-09-22 15:57:50,562 INFO [default] connect to Proxy[tcp://127.0.0.1:15561] success.
+2017-09-22 15:57:50,562 INFO [default] Create logger thread.
+2017-09-22 15:57:50,563 INFO [default] Connect to logger.
+2017-09-22 15:57:50,564 INFO [default] Logger thread begin.
+2017-09-22 15:57:50,564 INFO [default] Begin logging...
+2017-09-22 16:06:42,000 INFO [default] connect to Proxy[tcp://127.0.0.1:15561] success.
+2017-09-22 16:06:42,000 INFO [default] Create logger thread.
+2017-09-22 16:06:42,000 INFO [default] Connect to logger.
+2017-09-22 16:06:42,001 INFO [default] Logger thread begin.
+2017-09-22 16:06:42,001 INFO [default] Begin logging...
+2017-09-22 16:14:14,296 INFO [default] connect to Proxy[tcp://127.0.0.1:15561] success.
+2017-09-22 16:14:14,296 INFO [default] Create logger thread.
+2017-09-22 16:14:14,296 INFO [default] Connect to logger.
+2017-09-22 16:14:14,297 INFO [default] Logger thread begin.
+2017-09-22 16:14:14,297 INFO [default] Begin logging...
+2017-09-22 16:24:04,968 INFO [default] connect to Proxy[tcp://127.0.0.1:15561] success.
+2017-09-22 16:24:04,969 INFO [default] Create logger thread.
+2017-09-22 16:24:04,969 INFO [default] Connect to logger.
+2017-09-22 16:24:04,969 INFO [default] Logger thread begin.
+2017-09-22 16:24:04,969 INFO [default] Begin logging...
+2017-09-22 16:24:38,984 INFO [default] connect to Proxy[tcp://127.0.0.1:15561] success.
+2017-09-22 16:24:38,984 INFO [default] Create logger thread.
+2017-09-22 16:24:38,984 INFO [default] Connect to logger.
+2017-09-22 16:24:38,985 INFO [default] Logger thread begin.
+2017-09-22 16:24:38,985 INFO [default] Begin logging...
